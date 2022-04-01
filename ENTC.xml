@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="31.0.2-beta" />
+	<info name="date" value="Mar 24, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS stock airport" />
+	<parameter name="altitude" value="21" />
+	<parameter name="num_parkpos" value="19" />
+	<parameter name="parking_percentage" value="75" />
+	<parameter name="last_update" value="Mar 30, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="H11" latitude="69.676582" longitude="18.909164" heading="228.8" radius="20.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="WIF" type="DH8B" real="true" hours="15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="H54" latitude="69.686424" longitude="18.914776" heading="340.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="g21" latitude="69.679771" longitude="18.909580" heading="283.7" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FOX" type="B38M" real="true" hours="16,17" />
+			<option airline="NOZ" type="B738" real="true" hours="8,9" />
+			<option airline="WIF" type="E290" real="true" hours="11,12" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g22" latitude="69.680130" longitude="18.909822" heading="284.6" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="FOX" type="B38M" real="false" hours="16" />
+			<option airline="NOZ" type="B738" real="true" hours="15,16,21,22" />
+			<option airline="SAS" type="A20N" real="true" hours="11,12" />
+			<option airline="WIF" type="DH8A" real="false" hours="19" />
+			<option airline="WIF" type="E290" real="true" hours="8,9" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g23" latitude="69.680489" longitude="18.910074" heading="284.3" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOZ" type="B738" real="true" hours="11,12" />
+			<option airline="SAS" type="A20N" real="true" hours="8,9" />
+			<option airline="SAS" type="A319" real="false" hours="16" />
+			<option airline="WIF" type="E290" real="true" hours="21,22" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r16" latitude="69.677536" longitude="18.907740" heading="283.2" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="NOZ" type="B738" real="true" hours="15,16" />
+			<option airline="SAS" type="A20N" real="false" hours="11" />
+			<option airline="WIF" type="DH8C" real="true" hours="7,8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r17" latitude="69.677933" longitude="18.908031" heading="283.4" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="r18" latitude="69.678329" longitude="18.909250" heading="284.6" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="r19" latitude="69.678734" longitude="18.910019" heading="283.7" radius="18.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="WIF" type="DH8A" real="true" hours="15,16" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r20" latitude="69.679199" longitude="18.910158" heading="283.1" radius="18.0" cargo="false" ramp="true" />
+	<parkpos id="r24" latitude="69.680862" longitude="18.909924" heading="283.2" radius="17.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="NOZ" type="B738" real="false" hours="11" />
+			<option airline="WIF" type="DH8A" real="true" hours="8,9" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r50" latitude="69.684967" longitude="18.913733" heading="192.9" radius="13.0" cargo="false" ramp="true" />
+	<parkpos id="r51" latitude="69.685280" longitude="18.913668" heading="284.5" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="BE20" real="false" hours="19" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r52" latitude="69.685890" longitude="18.913620" heading="285.5" radius="10.0" cargo="false" ramp="true" cnt="2">
+		<aircraft>
+			<option airline="BNO" type="C68A" real="true" hours="12,13,14" />
+			<option airline="SWN" type="CRJ2" real="true" hours="10,11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r53" latitude="69.686157" longitude="18.913816" heading="284.3" radius="10.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="BE20" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r54" latitude="69.686531" longitude="18.913870" heading="329.0" radius="13.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="BE20" real="false" hours="21" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r55" latitude="69.674255" longitude="18.917389" heading="237.6" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="ALI" type="A169" real="false" hours="16" />
+			<option airline="PVT" type="BE20" real="false" hours="11" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r56" latitude="69.677399" longitude="18.919794" heading="10.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r57" latitude="69.681259" longitude="18.909588" heading="283.1" radius="21.0" cargo="false" ramp="true" />
+</parkpositions>

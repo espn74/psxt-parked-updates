@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<meta>
+	<info name="author" value="PSXT_MSFS" />
+	<info name="version" value="31.0.2-beta" />
+	<info name="date" value="Mar 24, 2022" />
+</meta>
+<parameters>
+	<parameter name="airport_name" value="" />
+	<parameter name="supplier" value="MSFS stock airport" />
+	<parameter name="altitude" value="6" />
+	<parameter name="num_parkpos" value="147" />
+	<parameter name="parking_percentage" value="35" />
+	<parameter name="last_update" value="Mar 31, 2022" />
+	<parameter name="home_base" value="" />
+	<parameter name="max_two" value="" />
+	<parameter name="real_only" value="0" />
+</parameters>
+<parkpositions>
+	<parkpos id="g108" latitude="13.922637" longitude="100.605042" heading="297.3" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g109" latitude="13.923223" longitude="100.605324" heading="297.9" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g110" latitude="13.923808" longitude="100.605698" heading="306.0" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g125" latitude="13.918118" longitude="100.602699" heading="43.5" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOK" type="B738" real="true" hours="4,5" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g126" latitude="13.917782" longitude="100.603279" heading="46.2" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOK" type="B738" real="true" hours="6,7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g127" latitude="13.917463" longitude="100.603798" heading="33.7" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AIQ" type="A320" real="true" hours="7,8" />
+			<option airline="TLM" type="B739" real="false" hours="4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g128" latitude="13.915995" longitude="100.601440" heading="33.0" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TLM" type="B739" real="false" hours="4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g129" latitude="13.915589" longitude="100.601982" heading="22.0" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TLM" type="B738" real="false" hours="4" />
+			<option airline="TLM" type="B738" real="true" hours="3,4" />
+			<option airline="TLM" type="B739" real="false" hours="7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g130" latitude="13.915297" longitude="100.602600" heading="34.9" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g131" latitude="13.913737" longitude="100.600189" heading="24.7" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AIQ" type="A20N" real="false" hours="4" />
+			<option airline="AIQ" type="A320" real="false" hours="4" />
+			<option airline="AIQ" type="A320" real="true" hours="0,1,6,7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g132" latitude="13.913364" longitude="100.600769" heading="17.0" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="AIQ" type="A20N" real="false" hours="7" />
+			<option airline="AIQ" type="A20N" real="true" hours="4,5" />
+			<option airline="AIQ" type="A320" real="false" hours="6,7" />
+			<option airline="BBE" type="A320" real="false" hours="1" />
+			<option airline="BBZ" type="A20N" real="true" hours="3,4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g133" latitude="13.913061" longitude="100.601379" heading="40.8" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g56" latitude="13.911528" longitude="100.599106" heading="33.6" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="SNY" type="DA40" real="false" hours="7" />
+			<option airline="TLM" type="B738" real="false" hours="4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g57" latitude="13.910866" longitude="100.600006" heading="31.1" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOK" type="B738" real="false" hours="2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g58" latitude="13.918497" longitude="100.604408" heading="204.1" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOK" type="B738" real="true" hours="3,4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g59" latitude="13.918869" longitude="100.603874" heading="198.6" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOK" type="B738" real="true" hours="6,7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g60" latitude="13.919159" longitude="100.603287" heading="197.7" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOK" type="B738" real="true" hours="5,6" />
+			<option airline="TLM" type="B738" real="false" hours="4" />
+			<option airline="TLM" type="B739" real="true" hours="7,8" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g61" latitude="13.920733" longitude="100.605721" heading="195.9" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g62" latitude="13.921018" longitude="100.605095" heading="199.6" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g63" latitude="13.921302" longitude="100.604469" heading="203.1" radius="18.0" cargo="false" ramp="false" />
+	<parkpos id="g64" latitude="13.916919" longitude="100.602005" heading="205.4" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="NOK" type="B738" real="true" hours="0,1" />
+			<option airline="TLM" type="B738" real="true" hours="4,5,6,7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g65" latitude="13.916632" longitude="100.602631" heading="201.6" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TLM" type="B738" real="true" hours="5,6" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="g66" latitude="13.916288" longitude="100.603195" heading="202.4" radius="18.0" cargo="false" ramp="false">
+		<aircraft>
+			<option airline="TLM" type="B739" real="true" hours="6,7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r1" latitude="13.913048" longitude="100.611404" heading="120.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r10" latitude="13.916450" longitude="100.613327" heading="115.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r100" latitude="13.906474" longitude="100.598457" heading="118.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r101" latitude="13.907005" longitude="100.598755" heading="113.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r102" latitude="13.907534" longitude="100.599083" heading="120.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r103" latitude="13.908085" longitude="100.599350" heading="121.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r104" latitude="13.910028" longitude="100.597771" heading="28.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r105" latitude="13.909698" longitude="100.598389" heading="28.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r106" latitude="13.899509" longitude="100.592499" heading="300.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r107" latitude="13.898928" longitude="100.592209" heading="306.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r11" latitude="13.916792" longitude="100.613556" heading="118.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r111" latitude="13.921972" longitude="100.606468" heading="121.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r112" latitude="13.922378" longitude="100.606720" heading="120.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r113" latitude="13.922797" longitude="100.606995" heading="118.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r114" latitude="13.923167" longitude="100.607262" heading="121.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r115" latitude="13.923614" longitude="100.607468" heading="118.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r116" latitude="13.924028" longitude="100.607704" heading="118.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r117" latitude="13.924450" longitude="100.607941" heading="118.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r118" latitude="13.924892" longitude="100.608192" heading="119.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r119" latitude="13.925348" longitude="100.608406" heading="118.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r12" latitude="13.917028" longitude="100.613770" heading="289.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r120" latitude="13.925783" longitude="100.608658" heading="119.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r121" latitude="13.926221" longitude="100.608902" heading="119.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r122" latitude="13.926672" longitude="100.609123" heading="120.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r123" latitude="13.926075" longitude="100.606941" heading="299.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r124" latitude="13.926584" longitude="100.607353" heading="297.8" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="ERCO" real="false" hours="4" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r13" latitude="13.917479" longitude="100.613976" heading="119.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r136" latitude="13.924116" longitude="100.617439" heading="308.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r137" latitude="13.924438" longitude="100.617653" heading="297.4" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="PVT" type="ERCO" real="false" hours="1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r138" latitude="13.924736" longitude="100.617821" heading="293.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r139" latitude="13.925036" longitude="100.617989" heading="299.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r14" latitude="13.917898" longitude="100.614159" heading="298.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r140" latitude="13.925297" longitude="100.618134" heading="289.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r141" latitude="13.925522" longitude="100.618263" heading="310.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r142" latitude="13.925774" longitude="100.618401" heading="313.1" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="SNY" type="DA40" real="false" hours="7" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r143" latitude="13.926003" longitude="100.618530" heading="286.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r144" latitude="13.923811" longitude="100.618027" heading="284.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r145" latitude="13.924145" longitude="100.618187" heading="289.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r146" latitude="13.924437" longitude="100.618340" heading="282.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r147" latitude="13.924744" longitude="100.618515" heading="291.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r148" latitude="13.925060" longitude="100.618698" heading="302.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r149" latitude="13.925328" longitude="100.618851" heading="305.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r15" latitude="13.918183" longitude="100.614357" heading="117.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r150" latitude="13.925589" longitude="100.619003" heading="301.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r151" latitude="13.925806" longitude="100.619125" heading="305.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r152" latitude="13.923423" longitude="100.618752" heading="101.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r153" latitude="13.923804" longitude="100.618912" heading="116.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r154" latitude="13.924128" longitude="100.619049" heading="131.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r155" latitude="13.924458" longitude="100.619194" heading="106.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r156" latitude="13.924755" longitude="100.619316" heading="113.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r157" latitude="13.925055" longitude="100.619446" heading="111.4" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="SNY" type="DA40" real="false" hours="2" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r158" latitude="13.925342" longitude="100.619568" heading="121.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r159" latitude="13.925551" longitude="100.619705" heading="111.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r16" latitude="13.918457" longitude="100.614548" heading="296.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r17" latitude="13.918769" longitude="100.614693" heading="117.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r18" latitude="13.919052" longitude="100.614853" heading="121.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r19" latitude="13.919364" longitude="100.615028" heading="299.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r2" latitude="13.913432" longitude="100.611656" heading="118.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r20" latitude="13.919659" longitude="100.615196" heading="118.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r21" latitude="13.919950" longitude="100.615364" heading="120.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r22" latitude="13.920247" longitude="100.615524" heading="295.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r23" latitude="13.920583" longitude="100.615723" heading="298.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r24" latitude="13.920963" longitude="100.615959" heading="117.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r25" latitude="13.921327" longitude="100.616165" heading="298.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r26" latitude="13.921782" longitude="100.616455" heading="120.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r28" latitude="13.912695" longitude="100.611137" heading="119.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r3" latitude="13.913810" longitude="100.611885" heading="305.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r30" latitude="13.902279" longitude="100.605568" heading="126.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r31" latitude="13.902485" longitude="100.605728" heading="109.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r32" latitude="13.902699" longitude="100.605827" heading="122.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r33" latitude="13.902901" longitude="100.605965" heading="114.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r34" latitude="13.903132" longitude="100.606079" heading="112.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r35" latitude="13.903353" longitude="100.606186" heading="114.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r36" latitude="13.903579" longitude="100.606300" heading="119.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r37" latitude="13.903760" longitude="100.606453" heading="122.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r4" latitude="13.914184" longitude="100.612106" heading="115.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r41" latitude="13.896567" longitude="100.602173" heading="308.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r42" latitude="13.897031" longitude="100.602440" heading="297.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r43" latitude="13.897519" longitude="100.602715" heading="297.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r44" latitude="13.897914" longitude="100.602928" heading="293.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r45" latitude="13.898193" longitude="100.603065" heading="294.1" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="SVY" type="BE20" real="true" hours="0,1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r46" latitude="13.909917" longitude="100.609802" heading="296.1" radius="7.0" cargo="false" ramp="true">
+		<aircraft>
+			<option airline="SNY" type="DA40" real="false" hours="1" />
+		</aircraft>
+	</parkpos>
+	<parkpos id="r48" latitude="13.897299" longitude="100.602554" heading="300.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r49" latitude="13.896805" longitude="100.602295" heading="302.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r5" latitude="13.914520" longitude="100.612335" heading="119.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r50" latitude="13.896365" longitude="100.602043" heading="295.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r51" latitude="13.897694" longitude="100.602814" heading="301.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r55" latitude="13.895934" longitude="100.602478" heading="122.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r6" latitude="13.914916" longitude="100.612495" heading="118.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r67" latitude="13.912151" longitude="100.599709" heading="211.2" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r68" latitude="13.912416" longitude="100.599350" heading="200.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r69" latitude="13.911977" longitude="100.600174" heading="210.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r7" latitude="13.915256" longitude="100.612808" heading="302.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r70" latitude="13.912598" longitude="100.600914" heading="211.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r71" latitude="13.912834" longitude="100.600273" heading="211.0" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r72" latitude="13.911755" longitude="100.600525" heading="207.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r73" latitude="13.898753" longitude="100.594246" heading="114.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r74" latitude="13.899384" longitude="100.594566" heading="117.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r75" latitude="13.900048" longitude="100.594925" heading="116.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r76" latitude="13.900691" longitude="100.595299" heading="115.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r77" latitude="13.901278" longitude="100.595749" heading="117.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r79" latitude="13.901976" longitude="100.595963" heading="115.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r8" latitude="13.915644" longitude="100.612968" heading="296.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r80" latitude="13.902519" longitude="100.596535" heading="116.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r81" latitude="13.903228" longitude="100.596855" heading="108.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r82" latitude="13.899981" longitude="100.593025" heading="300.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r83" latitude="13.900610" longitude="100.593201" heading="297.3" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r84" latitude="13.901173" longitude="100.593536" heading="299.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r85" latitude="13.901773" longitude="100.593842" heading="298.6" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r86" latitude="13.902332" longitude="100.594177" heading="299.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r87" latitude="13.902905" longitude="100.594498" heading="298.9" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r88" latitude="13.903516" longitude="100.594810" heading="302.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r89" latitude="13.904085" longitude="100.595123" heading="300.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r9" latitude="13.916066" longitude="100.613129" heading="117.7" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r90" latitude="13.904799" longitude="100.595490" heading="301.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r91" latitude="13.905336" longitude="100.595871" heading="299.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r92" latitude="13.905915" longitude="100.596191" heading="301.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r93" latitude="13.906485" longitude="100.596504" heading="299.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r94" latitude="13.907037" longitude="100.596870" heading="299.5" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r95" latitude="13.907578" longitude="100.597237" heading="298.4" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r96" latitude="13.908178" longitude="100.597504" heading="299.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r97" latitude="13.908772" longitude="100.597794" heading="298.1" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r98" latitude="13.905933" longitude="100.598137" heading="117.8" radius="7.0" cargo="false" ramp="true" />
+	<parkpos id="r99" latitude="13.905396" longitude="100.597923" heading="118.6" radius="7.0" cargo="false" ramp="true" />
+</parkpositions>
